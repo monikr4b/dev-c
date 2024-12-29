@@ -10,7 +10,7 @@ int our_random_func(int max)
 
       x = rand() % max + 1; // rand() calculates a different random number every time it's called
       /* Modulo Operator :
-      Returns the (integrer) remainder of a division between the two inputs. The resulting number cannot be larger than the divisor minus 1 */
+      Returns the (integer) remainder of a division between the two inputs. The resulting number cannot be larger than the divisor minus 1 */
 
       return x;
 }

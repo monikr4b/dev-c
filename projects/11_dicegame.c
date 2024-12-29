@@ -29,7 +29,7 @@ int main()
             "You can always exit and cash out whenever you want to.\n\n"
             "Your current balance is 1000€\n\n");
       usleep(3200000); // usleep() is the same as sleep() except it takes in an whole value of microseconds instead of seconds
-                       // This is necessary to enter fractional amounts of seconds, because sleep() functions only accept integrers as args
+                       // This is necessary to enter fractional amounts of seconds, because sleep() functions only accept integers as args
 
       while (1 == 1) // A while loop with a condition that always evaluates to true keeps the code within the brackets in an infinite loop of execution
       {

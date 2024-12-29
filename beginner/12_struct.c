@@ -11,7 +11,7 @@ struct person {
 
 int main()
 {
-      struct person Birch; // This is an *instanc* of the struct "person"
+      struct person Birch; // This is an *instance* of the struct "person"
 
       strncpy(Birch.title, "doctor", 7); // Copies the first 7 characters of the string "doctor" into the struct "birch"'s member "title"
       strncpy(Birch.last_name, "Birch", 31);
