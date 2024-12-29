@@ -1,6 +1,8 @@
 *
 !/intermediate/
 !/beginner/
+!/intermediate/DOCS/
+!/beginner/DOCS/
 !.gitignore
 !*.c
 !*.md
