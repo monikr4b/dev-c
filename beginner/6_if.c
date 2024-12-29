@@ -1,4 +1,3 @@
-
 /* if.c */
 
 #include <stdio.h>

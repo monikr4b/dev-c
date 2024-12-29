@@ -1,4 +1,3 @@
-
 /* random.c */
 
 #include <stdio.h>

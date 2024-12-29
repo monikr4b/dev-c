@@ -1,4 +1,3 @@
-
 /* numbers.c */
 
 #include <stdio.h>

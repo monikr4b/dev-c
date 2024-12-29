@@ -1,4 +1,3 @@
-
 /* name.c */
 
 #include <stdio.h>

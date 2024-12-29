@@ -1,4 +1,3 @@
-
 /* float.c */
 
 #include <stdio.h>

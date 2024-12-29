@@ -1,4 +1,3 @@
-
 /* dicegame.c */
 
 #include <stdio.h>

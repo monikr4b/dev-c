@@ -1,4 +1,3 @@
-
 /* countdown.c */
 
 #include <stdio.h>

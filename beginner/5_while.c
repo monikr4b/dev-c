@@ -1,4 +1,3 @@
-
 /* while.c */
 
 #include <stdio.h>
