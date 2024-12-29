@@ -1,0 +1,7 @@
+*
+!/intermediate/
+!/beginner/
+!.gitignore
+!*.c
+!*.md
+!*.txt
